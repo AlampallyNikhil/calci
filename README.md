@@ -1,2 +1,3 @@
 # calci
-caluculator in c++
+practice codes
+
